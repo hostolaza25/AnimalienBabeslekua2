@@ -20,7 +20,7 @@ public class BabeslekuaGUI extends Application {
 
         // ==========================================
         // 1. HASIERako ESZENA (Pantalla principal / Menú)
-        // ==========================================
+        // ==========================================n
         VBox panelHasiera = new VBox(15);
         panelHasiera.setAlignment(Pos.CENTER);
         panelHasiera.setPadding(new Insets(20));
