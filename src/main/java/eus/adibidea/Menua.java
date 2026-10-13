@@ -16,7 +16,7 @@ public class Menua {
     public void erakutsiMenuNagusia() {
         int aukera;
         do {
-            System.out.println("\n--- ANIMALIEN BABESLEKUA ---");
+            System.out.println("--- ANIMALIEN BABESLEKUA ---");
             System.out.println("1. Animalia gehitu");
             System.out.println("2. Animaliak erakutsi");
             System.out.println("3. Animalia bilatu");
